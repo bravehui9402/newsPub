@@ -8,6 +8,6 @@
         <property name="acquireIncrement">5</property>
         <property name="initialPoolSize">10</property>
         <property name="minPoolSize">5</property>
-        <property name="maxPq1oolSize">20</property>
+        <property name="max222Pq1oolSize">20</property>
     </default-config>
 </c3p0-config>
